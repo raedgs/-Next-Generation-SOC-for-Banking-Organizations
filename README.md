@@ -33,3 +33,11 @@ manage and monitor data, files, servers, network equipment and virtual machines.
 • Monitor file integrity to detect changes to files and directories.
 • Record and monitor endpoints and network traffic, create analytics, alert the security team of
 suspicious behavior and stop the cyber incident.
+
+
+
+
+
+![architec](https://github.com/raedgs/-Next-Generation-SOC-for-Banking-Organizations/assets/60553077/0660b8c2-5aff-4c9a-ba61-9fe229e3e143)
+
+
